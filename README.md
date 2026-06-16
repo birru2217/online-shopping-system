@@ -1,4 +1,3 @@
-[Uploading ecommerce.sql…]()
 # Online Shopping (E-Commerce) Web Application 🛍️🛒
 
 A complete, feature-rich online shopping web application built with PHP, MySQL, and Bootstrap. This platform allows customers to browse products, manage their shopping carts, and place orders, while providing administrators with a dashboard to manage products and orders.
